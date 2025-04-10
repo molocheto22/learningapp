@@ -214,3 +214,7 @@ E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp
 E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Debug\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
 E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
 E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Debug\net8.0\System.ClientModel.dll
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cs
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Debug\net8.0\Microsoft.FeatureManagement.dll
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Debug\net8.0\Microsoft.FeatureManagement.AspNetCore.dll
