@@ -1,0 +1,7 @@
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Publish\learningapp.exe
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Publish\appsettings.Development.json
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Publish\appsettings.json
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Publish\learningapp.dll
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Publish\learningapp.deps.json
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+E:\AZ-204  Microsoft Certified Azure Developer Associate Course\tmp2\learningapp\bin\Publish\learningapp.pdb
